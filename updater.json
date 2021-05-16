@@ -1,11 +1,11 @@
 {
-    "name":"v0.1.1",
+    "name":"v0.1.2",
     "notes":"Test version",
     "pub_date":"2020-06-22T19:25:57Z",
     "platforms": {
         "win64": {
-            "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldUNHhNakllaHBjc2ptQ05zMGora1hNa2RJZC9ieUl5SXU1Qm8rMjhVeTF3THhOenc5c1FkUlIyZEt3dXdSTlcvRVBKRTlBanpsdk53MXRZNTkxUll0ZGJyNlppVi9UckFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjIxMTc4OTcxCWZpbGU6QzpcVXNlcnNcU2ltb25DaGFuXERvY3VtZW50c1xSZXBvXG15LXRhdXJpXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL215LXRhdXJpLWFwcF8wLjEuMF94NjQubXNpLnppcAoxZ0pQSDRteWg0bm4zMXpmbnBIMUhuOEtpOU8remFBOXp6NlhmUDFUSjFSdk5EUUJESDlTMVd4VXJvVE5kRzZZN0JVYnZpOWVxOHM4dVJiK0FkQnVDQT09Cg==",
-            "url":"https://github.com/waisimon/my-tauri/releases/download/v0.1.1/my-tauri-app_0.1.0_x64.msi.zip"
+            "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldUNHhNakllaHBjc2tZY3Rnb25ZTW9lVHpLRnl2N1lhT21jZHU0Q2lValBxMHBFandGaVpRTi9ndUtpdUM1b1J4UW8yRHhUZzJPZysya29RNURaK1IzSEdQbVZBWDNzT0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjIxMTc5MjAzCWZpbGU6QzpcVXNlcnNcU2ltb25DaGFuXERvY3VtZW50c1xSZXBvXG15LXRhdXJpXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL215LXRhdXJpLWFwcF8wLjEuMl94NjQubXNpLnppcApEU1Juc0JhVEhJZDFFZzlTbklBaEhhZUVsaHpiTkFoS2h5NTZYaHVBQXV1SVFkcXUzK0pEdGFGcitFSEU1RlJSZXFOZU5XaW1JOVYrVGZTakkzNGxCQT09Cg==",
+            "url":"https://github.com/waisimon/my-tauri/releases/download/0.1.2/my-tauri-app_0.1.2_x64.msi.zip"
         }
     }
 }
