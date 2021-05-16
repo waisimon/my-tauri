@@ -4,7 +4,7 @@
     "pub_date":"2020-06-22T19:25:57Z",
     "platforms": {
         "win64": {
-            "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEIyNUMxQTdBQzhDOEM0RjgKUldUNHhNakllaHBjc29aZFBRektZY3RrNGg0SWxmbGZSVUJRcXB0K0taL0luTFlhL1pTd0hUOGEK",
+            "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldUNHhNakllaHBjc3ZXUlpkMFpveFRhSjBZK1lmRFFGRDhaRFBJUXlTb3ZyblRBMG5VbitjbXdQRlhGK0ZaMHVxV2VaNU5udFRRamNUSkYrUUFYeTVlaFg2YWxWRldPYkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjIxMTc4MzA2CWZpbGU6QzpcVXNlcnNcU2ltb25DaGFuXERvY3VtZW50c1xSZXBvXG15LXRhdXJpXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL215LXRhdXJpLWFwcF8wLjEuMF94NjQubXNpLnppcApOVk0xOC9lMWtZSDZWbmVYMko1KzBPVHorT1lZeVd0QTZuZXNQS1JNdUw0SEhLM3pOUWlFSElGa1JHQ3R4Z3RmS2F2WVlSOGpQWW1BNjU2NjcvckVCdz09Cg==",
             "url":"https://github.com/waisimon/my-tauri/releases/download/v0.1.1/my-tauri-app_0.1.0_x64.msi.zip"
         }
     }
