@@ -4,6 +4,7 @@
     "pub_date":"2020-06-22T19:25:57Z",
     "platforms": {
         "win64": {
+            "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEIyNUMxQTdBQzhDOEM0RjgKUldUNHhNakllaHBjc29aZFBRektZY3RrNGg0SWxmbGZSVUJRcXB0K0taL0luTFlhL1pTd0hUOGEK",
             "url":"https://github.com/waisimon/my-tauri/releases/download/v0.1.1/my-tauri-app_0.1.0_x64.msi.zip"
         }
     }
